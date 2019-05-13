@@ -1,12 +1,11 @@
 {
-  "name": "weex.engine.io-client",
-  "description": "Client for the realtime Engine",
+  "name": "engine.io-client-weex",
+  "description": "Client for the realtime Engine(weex version)",
   "license": "MIT",
   "version": "3.3.1",
   "main": "lib/index.js",
   "homepage": "https://github.com/socketio/engine.io-client",
-  "contributors": [
-    {
+  "contributors": [{
       "name": "Guillermo Rauch",
       "email": "rauchg@gmail.com"
     },
