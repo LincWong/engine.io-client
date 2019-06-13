@@ -3,7 +3,7 @@
   "description": "fork by https://github.com/socketio/engine.io-client v3.3.2 and support weex",
   "license": "MIT",
   "keywords": ["weex", "websocket", "socket.io-client", "engine.io-client", "socket.io"],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "lib/index.js",
   "homepage": "https://github.com/LincWong/engine.io-client-weex",
   "contributors": [{
@@ -19,7 +19,7 @@
     "indexof": "0.0.1",
     "parseqs": "0.0.5",
     "parseuri": "0.0.5",
-    "weex.adapter.websocket": "^1.0.1",
+    "weex.adapter.websocket": "^2.0.1",
     "ws": "~6.1.0",
     "xmlhttprequest-ssl": "~1.5.4",
     "yeast": "0.1.2"
